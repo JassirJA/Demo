@@ -1,3 +1,1 @@
-#Basic Python Programming
-
-#Learned to commit & push to repo
+Github & Git Learning
